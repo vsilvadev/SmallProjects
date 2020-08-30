@@ -8,7 +8,7 @@
   • <a href="#author">Author</a> <br>
 
 <h2 name="the_project">💡 The Project</h2>
-<p>• create a simple dark mode to test this functionality (functionality that I am simply an admirer of).</p>
+<p>• Create a simple dark mode to test this functionality (functionality that I am simply an admirer of).</p>
 
 <h2>🖥 The Application<a name="application"></a></h2>
 <img src="https://github.com/vsilvadev/SmallProjects/blob/master/darkMode/github_images/darkmode.gif" alt="Proffy Logo">
