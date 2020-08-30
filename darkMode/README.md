@@ -14,15 +14,19 @@
 <img src="https://github.com/vsilvadev/SmallProjects/blob/master/darkMode/github_images/darkmode.gif" alt="Proffy Logo">
 
 <h3 name="how-to">⌨️ Running the project</h3>
+<h4>• Prerequisites</h4>
+Before starting, you will need to have the following tools installed on your machine<br><br>
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/static/v1?label=Install&message=VS_Code&color=0066B8&style=for-the-badge"/>
+</a>
 <h4>Clone this repository</h4>
 $ git clone https://github.com/vsilvadev/SmallProjects.git
 
 <h4>Access the project folder in the terminal/cmd</h4>
 $ cd SmallProjects <br>
-$ cd darkMode
-
+$ cd darkMode <br>
+$ code . (To Open VS Code)
 <h4>Run the application</h4>
-• Open the project in VS Code
 • Use the VS Code live server in the index.html file
 
 <h3 name="author">⭐ Author: Vitor Silva 👋🏽</h3> 
